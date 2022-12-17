@@ -1,0 +1,27 @@
+{
+  "name": "hostaway-wrapper",
+  "version": "1.0.0",
+  "author": "Sandro Puljic <puljic@gmail.com>",
+  "description": "Simple Node.js Wrapper for Hostaway.com API",
+  "exports": "./HostAway.js",
+  "type": "module",
+  "node": ">=14.16",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/San2k/hostaway-wrapper.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/San2k/hostaway-wrapper/issues"
+  },
+  "keywords": [
+    "hostaway",
+    "hostaway.com",
+    "api",
+    "wrapper"
+  ],
+  "dependencies": {
+    "axios": "^1.2.1",
+    "form-data": "^4.0.0"
+  }
+}
