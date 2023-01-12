@@ -1,6 +1,6 @@
 {
   "name": "hostaway-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "Sandro Puljic <puljic@gmail.com>",
   "description": "Simple Node.js Wrapper for Hostaway.com API",
   "exports": "./HostAway.js",
